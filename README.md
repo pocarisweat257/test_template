@@ -34,6 +34,7 @@ The goals and objectives of the project are as follows:
 
 ## System Architecture
 
+작성 중
 </br>
 
 
@@ -42,8 +43,12 @@ The goals and objectives of the project are as follows:
  The following is a sample project timeline:
  
  1. Week 1: Study about the virtualization and analyze the technical requirements of the project.
- 2. Week 2: Build a basic linux image that runs on a hypervisor, rather than on the hardware itself.
- 3. 
+ 2. Week 2: Build a basic linux image that runs on a hypervisor, rather than on the hardware itself and configure the network settings.
+ 3. Week 3-4: Integrate your Cluster application into a virtual machine and run application using various qt plugin (vnc, linuxfb, etc.).
+ 4. Week 5-6: Integrate your PDC-System into a virtual machine that supports a real-time environment such as rt linux.
+ 5. Week 7: Implement interdomain communication between Cluster and PDC-System, output data and control results to the cluster
+ 6. Week 8-10: Optimize the system performance -> 더 작성
+ 7. Week 11-12: Final preparation and submission. Participants should use this time to finalize their project reports, document their code, and prepare their submissions. The final project submissions are due at the end of week 12.
 </br>
 
 
@@ -52,7 +57,10 @@ The goals and objectives of the project are as follows:
 Upon completion of the project, participants should submit a GitHub repository that includes the following components:
 
 1. Software Code: Participants should provide the source code for their systems, including the system configurations and applications. The code should be well-documented, with clear explanations of the algorithms and techniques used.
-2. Performance Results: Participants should provide overall performance results that 
+2. Performance Results: Participants should provide a comparison of the overall performance measurement results with the previous system. This may include screenshots or videos in action, as well as metrics and statistics that measure the performance.
+3. Project Report: Participants should provide a project report that describes their experience with the project, including any challenges faced and how they were overcome. The report should also include a discussion of the algorithms and techniques used, aswell as the results and conclusions of the project.
+
+By providing these components, the participants will demonstrate their understanding of the concepts and techniques involved in the project, and will provide evidence of their ability to implement a virtualization system. The GitHub repository will serve as a portfolio of the participants' work, and will provide a record of their achievements and contributions to the field of embedded systems.
 </br>
 
 
