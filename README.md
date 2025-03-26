@@ -1,6 +1,6 @@
 # SEA:ME Project - Hypervisor
 
-- [\*\* SEA:ME Project - Hypervisor\*\*](#-seame-project---Hypervisor)
+- [SEA:ME Project - Hypervisor](#-seame-project---Hypervisor)
   - [Introduction](#introduction)
   - [Project Goals and Objectives](#project-goals-and-objectives)
   - [Technical Requirements](#technical-requirements)
