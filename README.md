@@ -3,7 +3,6 @@
 - [SEA:ME Project - Hypervisor](#-seame-project---Hypervisor)
   - [Introduction](#introduction)
   - [Project Goals and Objectives](#project-goals-and-objectives)
-  - [Technical Requirements](#technical-requirements)
   - [System Architecture](#system-architecture)
   - [Implementation](#implementation)
   - [Project Timeline](#project-timeline)
@@ -17,6 +16,11 @@ This project aims to integrate the Cluster Qt application and the PDC-System int
 </br>
 
 
+## Background Information
+
+Yocto 프로젝트에서 제공하는 [meta-virtualization](git://git.yoctoproject.org/meta-virtualization) 레이어는 Xen, KVM, Libvirt 등 가상화 시스템을 구성하기 위한 기술들과 필요한 패키지를 제공한다.
+
+
 ## Project Goals and Objectives
 
 The goals and objectives of the project are as follows:
@@ -27,14 +31,8 @@ The goals and objectives of the project are as follows:
 </br>
 
 
-## Technical Requirements
-* Cluster application과 PDC-System를 서로 다른 리눅스 OS로 분리하여 실행
-* interdomain communication을 구현하여 ultrasonic sensor의 데이터 및 제어 결과를 Cluster application으로 전달
-* 하드웨어 가상화로 인한 오버헤드 및 성능 저하를 최소화하도록 시스템 최적화
-</br>
-
-
 ## System Architecture
+
 
 </br>
 
