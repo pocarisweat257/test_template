@@ -26,9 +26,9 @@ The [meta-virtualization](https://layers.openembedded.org/layerindex/branch/mast
 
 The goals and objectives of the project are as follows:
 
-1. Execute the Cluster application and the PDC-System on separate Linux virtual domain using hypervisor
-2. Transfer ultrasonic sensor data and control results to the Cluster application using interdomain communication protocol
-3. Optimize the system to minimize the overhead and performance degradation caused by hardware virtualization
+1. Execute the Cluster application and the PDC-System on separate Linux virtual domain using hypervisor.
+2. Transfer ultrasonic sensor data and control results to the Cluster application using interdomain communication protocol.
+3. Optimize the system to minimize the overhead and performance degradation caused by hardware virtualization.
 </br>
 
 
@@ -42,7 +42,8 @@ The goals and objectives of the project are as follows:
  The following is a sample project timeline:
  
  1. Week 1: Study about the virtualization and analyze the technical requirements of the project.
- 2. Week 2: 
+ 2. Week 2: Build a basic linux image that runs on a hypervisor, rather than on the hardware itself.
+ 3. 
 </br>
 
 
