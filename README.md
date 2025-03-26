@@ -18,7 +18,7 @@ This project aims to integrate the Cluster Qt application and the PDC-System int
 
 ## Background Information
 
-The [meta-virtualization](https://layers.openembedded.org/layerindex/branch/master/layer/meta-virtualization/) layer provided by the Yocto project supplies virtualization technologies such as Xen, KVM, and Libvirt, as well as the necessary packages for building virtualized systems. Students can implement a basic virtualization platform using several recipes from the meta-virtualization layer, and port the system implemented in a previous project to MCS.
+The [meta-virtualization](https://layers.openembedded.org/layerindex/branch/master/layer/meta-virtualization/) layer provided by the Yocto project supplies virtualization technologies such as Xen, KVM, Libvirt and others, along with the necessary packages for building virtualized systems. Students can implement a basic virtualization platform using several recipes from the meta-virtualization layer, and port the system implemented in a previous project to MCS.
 </br>
 
 
