@@ -2,6 +2,7 @@
 
 - [SEA:ME Project - Hypervisor](#-seame-project---Hypervisor)
   - [Introduction](#introduction)
+  - [Background Information](#background-information)
   - [Project Goals and Objectives](#project-goals-and-objectives)
   - [System Architecture](#system-architecture)
   - [Implementation](#implementation)
