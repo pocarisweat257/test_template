@@ -1,4 +1,4 @@
-# SEA:ME Project - Hypervisor
+# SEA:ME Project - Mixed Criticality System
 
 - [SEA:ME Project - Hypervisor](#-seame-project---Hypervisor)
   - [Introduction](#introduction)
@@ -44,10 +44,10 @@ The goals and objectives of the project are as follows:
  
  1. Week 1: Study about the virtualization and analyze the technical requirements of the project.
  2. Week 2: Build a basic linux image that runs on a hypervisor, rather than on the hardware itself and configure the network settings.
- 3. Week 3-4: Integrate your Cluster application into a virtual machine and run application using various qt plugin (vnc, linuxfb, etc.).
+ 3. Week 3-4: Integrate your Cluster application into a virtual machine and run application using various qt plugins (vnc, linuxfb, etc.).
  4. Week 5-6: Integrate your PDC-System into a virtual machine that supports a real-time environment such as rt linux.
- 5. Week 7: Implement interdomain communication between Cluster and PDC-System, output data and control results to the cluster
- 6. Week 8-10: Optimize the system performance -> 더 작성
+ 5. Week 7: Implement a interdomain communication between Cluster and PDC-System, output sensor data and control results to the cluster.
+ 6. Week 8-10: Analyze and optimize system performance from various perspectives, including responsiveness, stability, and safety.
  7. Week 11-12: Final preparation and submission. Participants should use this time to finalize their project reports, document their code, and prepare their submissions. The final project submissions are due at the end of week 12.
 </br>
 
