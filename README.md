@@ -67,4 +67,10 @@ This project aims to integrate the Head Unit Qt application and the PDC-System i
 
 ## References
 
+* Yocto Project. (2021). Yocto Project. https://www.yoctoproject.org/
+* Qt Project. (2021). Qt Project. https://www.qt.io/
+* Raspberry Pi Foundation. (2021). Raspberry Pi. [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
+* CAN specification documents: These documents provide detailed information on the CAN (Controller Area Network) protocol and its implementation.
+* VsomIp/Autosar documents: These documents provide information on the Inter-Process Communication (IPC) frameworks VsomIp and Autosar and their implementation in the automotive industry.
+* meta-virtualization: This layer provides support for virtualization. https://layers.openembedded.org/layerindex/branch/master/layer/meta-virtualization/
 </br>
