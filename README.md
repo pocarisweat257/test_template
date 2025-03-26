@@ -2,16 +2,12 @@
 
 - [\*\* SEA:ME Project - Hypervisor\*\*](#-seame-project---Hypervisor)
   - [Introduction](#introduction)
-  - [Background Information](#background-information)
   - [Project Goals and Objectives](#project-goals-and-objectives)
   - [Technical Requirements](#technical-requirements)
   - [System Architecture](#system-architecture)
   - [Implementation](#implementation)
   - [Project Timeline](#project-timeline)
-  - [Collaboration and Teamwork](#collaboration-and-teamwork)
-  - [Results](#results)
   - [Submission](#submission)
-  - [Evaluation](#evaluation)
   - [References](#references)
 
 ## Introduction
@@ -23,6 +19,7 @@ This project aims to integrate the Head Unit Qt application and the PDC-System i
 
 
 ## Project Goals and Objectives
+
 
 </br>
 
@@ -47,23 +44,10 @@ This project aims to integrate the Head Unit Qt application and the PDC-System i
 </br>
 
 
-## Collaboration and Teamwork
-
-</br>
-
-
-## Results
-
-</br>
-
-
 ## Submission
 
 </br>
 
-## Evaluation
-
-</br>
 
 ## References
 
