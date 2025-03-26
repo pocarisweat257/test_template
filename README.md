@@ -21,9 +21,9 @@ This project aims to integrate the Cluster Qt application and the PDC-System int
 
 The goals and objectives of the project are as follows:
 
-1.  * Cluster application과 PDC-System를 서로 다른 리눅스 OS로 분리하여 실행
-2.  * interdomain communication을 구현하여 ultrasonic sensor의 데이터 및 제어 결과를 Cluster application으로 전달
-3.  * 하드웨어 가상화로 인한 오버헤드 및 성능 저하를 최소화하도록 시스템 최적화
+1. Cluster application과 PDC-System를 서로 다른 리눅스 OS로 분리하여 실행
+2. interdomain communication을 구현하여 ultrasonic sensor의 데이터 및 제어 결과를 Cluster application으로 전달
+3. 하드웨어 가상화로 인한 오버헤드 및 성능 저하를 최소화하도록 시스템 최적화
 </br>
 
 
