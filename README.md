@@ -1,4 +1,4 @@
-# ** SEA:ME Project - Hypervisor**
+# SEA:ME Project - Hypervisor
 
 - [\*\* SEA:ME Project - Hypervisor\*\*](#-seame-project---Hypervisor)
   - [Introduction](#introduction)
