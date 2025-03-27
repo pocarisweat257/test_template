@@ -34,7 +34,7 @@ The goals and objectives of the project are as follows:
 
 ## System Architecture
 
-The architecture below is an example of a virtualized system architecture that uses the Xen hypervisor. It has two domains: Dom0, a privileged domain that manages hardware resources and controls virtual machines with the help of Xen, and DomU, an unprivileged guest virtual machine isolated from Dom0. In this example architecture, Dom0 runs the PDC-system and collects data from sensors using CAN. Data and control results are transferred to the cluster application running on DomU via an inter-domain communication protocol such as Xen vchan. The cluster application is launched using the VNC plugin provided by Qt, and Dom0 displays cluster on the monitor.
+The architecture below is an example of a virtualized system architecture that uses the Xen hypervisor. It has two domains: Dom0, a privileged domain that manages hardware resources and controls virtual machines with the help of Xen, and DomU, an unprivileged guest virtual machine isolated from Dom0. In this example architecture, Dom0 runs the PDC-System and collects data from sensors using CAN. Data and control results are transferred to the cluster application running on DomU via an inter-domain communication protocol such as Xen vchan. The cluster application is launched using the VNC plugin provided by Qt, and Dom0 displays cluster on the monitor.
 
 This architecture is provided as an example scenario, and participants are free to configure the system as they see fit.
 
