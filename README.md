@@ -60,9 +60,9 @@ This architecture is provided as an example scenario, and participants are free 
 
 Upon completion of the project, participants should submit a GitHub repository that includes the following components:
 
-1. **Software Code**: Participants should provide the source code for their systems, including the system configurations and applications. The code should be well-documented, with clear explanations of the algorithms and techniques used.
+1. **Software Code**: Participants should provide the source code for their systems, including the system configurations and applications. The code should be well-documented, with clear explanations of the overall system architecture concept.
 2. **Performance Results**: Participants should provide a comparison of the overall performance measurement results with the previous system. This may include screenshots or videos in action, as well as metrics and statistics that measure the performance.
-3. **Project Report**: Participants should provide a project report that describes their experience with the project, including any challenges faced and how they were overcome. The report should also include a discussion of the algorithms and techniques used, as well as the results and conclusions of the project.
+3. **Project Report**: Participants should provide a project report that describes their experience with the project, including any challenges faced and how they were overcome. The report should also include a discussion of the system architecture and techniques used, as well as the results and conclusions of the project.
 
 By providing these components, the participants will demonstrate their understanding of the concepts and techniques involved in the project, and will provide evidence of their ability to implement a virtualization system. The GitHub repository will serve as a portfolio of the participants' work, and will provide a record of their achievements and contributions to the field of embedded systems.
 </br>
