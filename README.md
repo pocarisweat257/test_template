@@ -47,7 +47,7 @@ This architecture is provided as an example scenario, and participants are free 
  The following is a sample project timeline:
  
  1. Week 1: Study virtualization and analyze the technical requirements of the project.
- 2. Week 2: Build a basic Linux image that runs on a hypervisor, rather than on the hardware itself and configure the network settings.
+ 2. Week 2: Build a basic Linux image that runs on a hypervisor, rather than on the hardware itself and configure the system environment settings.
  3. Week 3-4: Integrate your PDC-System into a virtual machine that supports a real-time environment such as RT Linux.
  4. Week 5-6: Integrate your Cluster application into a virtual machine and run the application using various Qt plugins (vnc, linuxfb, etc.).
  5. Week 7: Implement an inter-domain communication between Cluster and PDC-System, and output sensor data and control results to the cluster.
