@@ -1,6 +1,6 @@
 # SEA:ME Project - Mixed Criticality System
 
-- [SEA:ME Project - Hypervisor](#-seame-project---Hypervisor)
+- [SEA:ME Project - Mixed Criticality System](#-seame-project---Mixed Criticality System)
   - [Introduction](#introduction)
   - [Background Information](#background-information)
   - [Project Goals and Objectives](#project-goals-and-objectives)
