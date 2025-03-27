@@ -12,7 +12,7 @@
 ## Introduction
 
 Recent vehicles are making efforts to adopt Zonal Architecture rather than the conventional ECU placement that focused on functionalities. In this context, secure isolation between different system domains is essential for a single controller to meet diverse safety requirements of multiple systems. To achieve this, there have been continuous efforts to introduce hypervisor technology—originally used in servers—into vehicles, aiming to accomplish safe data transfer between different domains while minimizing performance degradation.
-This project aims to integrate the Cluster Qt application and the PDC-System into a Mixed Criticality System (MCS). Both systems, developed in the previous project, will be separated into different domains on a single RPi using a hypervisor, and will exchange data through interdomain communication.
+This project aims to integrate the Cluster Qt application and the PDC-System into a Mixed Criticality System (MCS). Both systems, developed in the previous project, will be separated into different domains on a single RPi using a hypervisor, and will exchange data through inter-domain communication.
 </br>
 
 
