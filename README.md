@@ -34,7 +34,7 @@ The goals and objectives of the project are as follows:
 
 ## System Architecture
 
-작성 중
+![Example system architecture](https://github.com/user-attachments/assets/439234e3-07ed-4109-a104-6f0aac6722a3)
 </br>
 
 
