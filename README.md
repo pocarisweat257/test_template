@@ -34,11 +34,11 @@ The goals and objectives of the project are as follows:
 
 ## System Architecture
 
-The architecture below is an example of a virtualized system architecture that uses the Xen hypervisor. It has two domains: Dom0, a privileged domain that manages hardware resources and controls virtual machines with the help of Xen, and DomU, an unprivileged guest virtual machine isolated from Dom0. In this example architecture, Dom0 runs the PDC-System and collects data from sensors using CAN. Data and control results are transferred to the cluster application running on DomU via an inter-domain communication such as Xen vchan or VsomeIp. The cluster application is launched using the VNC plugin provided by Qt, and Dom0 displays cluster on the monitor.
+The architecture below is an example of a virtualized system architecture that uses the Xen hypervisor. It has two domains: Dom 0, a privileged domain that manages hardware resources and controls virtual machines with the help of Xen, and Dom U, an unprivileged guest virtual machine isolated from Dom 0. In this example architecture, Dom 0 runs the PDC-System and collects data from sensors using CAN. Data and control results are transferred to the cluster application running on Dom U via an inter-domain communication such as Xen vchan or VsomeIp. The cluster application is launched using the VNC plugin provided by Qt, and Dom 0 displays cluster on the monitor.
 
 This architecture is provided as an example scenario, and participants are free to configure the system as they see fit.
 
-![Example system architecture_250407](https://github.com/user-attachments/assets/26a5f6c6-0cf0-42af-bde9-124e2fac8949)
+![System Architecture Example](https://github.com/user-attachments/assets/6b22a2e9-3525-4329-9509-c8af4f325ff3)
 </br>
 
 
@@ -48,8 +48,8 @@ This architecture is provided as an example scenario, and participants are free 
  
  1. Week 1: Study virtualization and analyze the technical requirements of the project.
  2. Week 2: Build a basic Linux image that runs on a hypervisor, rather than on the hardware itself and configure the system environment settings.
- 3. Week 3: Integrate your PDC-System into the MCS domain.
- 4. Week 4: Integrate your Cluster application into the MCS and run the application using various Qt plugins (vnc, linuxfb, etc.).
+ 3. Week 3: Integrate your Cluster application into the MCS and run the application using various Qt plugins (vnc, linuxfb, etc.).
+ 4. Week 4: Integrate your Head Unit into the another guest domain and segregate the PDC from the Head Unit to Dom 0.
  5. Week 5: Implement an inter-domain communication between Cluster and PDC-System, and output sensor data and control results to the cluster.
  6. Week 6-7: Analyze and optimize system performance from various perspectives, including responsiveness, stability, and safety.
  7. Week 8: Final preparation and submission. Participants should use this time to finalize their project reports, document their code, and prepare their submissions. The final project submissions are due at the end of week 12.
