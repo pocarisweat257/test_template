@@ -1,6 +1,6 @@
-# SEA:ME Project - Mixed Criticality System
+# SEA:ME Project - Integrated Digital Cockpit
 
-- [SEA:ME Project - Mixed Criticality System](#-seame-project---Mixed-Criticality-System)
+- [SEA:ME Project - Integrated Digital Cockpit](#-seame-project---integrated-digital-cockpit)
   - [Introduction](#introduction)
   - [Background Information](#background-information)
   - [Project Goals and Objectives](#project-goals-and-objectives)
